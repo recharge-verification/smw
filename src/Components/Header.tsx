@@ -36,7 +36,7 @@ export default function Header() {
       <div className="navbar-end">
         {/* Bouton Disponibilités (Desktop) */}
         <Link
-          href="/contact#calendrier"
+          href="#reserver"
           className="btn btn-primary hidden lg:inline-flex bg-pink-500 border-pink-500 hover:bg-pink-600 text-white"
         >
           Disponibilités
@@ -67,7 +67,7 @@ export default function Header() {
               </li>
             ))}
             <li>
-              <Link href="/contact#calendrier" className="text-pink-500 font-semibold">
+              <Link href="#reserver" className="text-pink-500 font-semibold">
                 Disponibilités
               </Link>
             </li>

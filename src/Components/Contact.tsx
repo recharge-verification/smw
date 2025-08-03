@@ -150,8 +150,8 @@ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
             variants={item}
             className="w-full lg:w-1/2 space-y-8"
           >
-            <div className="card bg-base-200 shadow-lg p-6">
-              <h3 className="text-xl font-bold text-pink-600 mb-4">Autres moyens de contact</h3>
+            <div id="reserver" className="card bg-base-200 shadow-lg p-6">
+              <h3 className="text-xl font-bold text-pink-600 mb-4">Réserver maintenant!</h3>
               
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
