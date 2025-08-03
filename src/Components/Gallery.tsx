@@ -58,14 +58,14 @@ const galleryImages = [
     id: 8,
     src: '/gallery/8.jpg',
     alt: 'Cocktail en terrasse',
-    category: 'soirée',
+    category: 'ville',
     blurred: false
   },
   {
     id: 9,
     src: '/gallery/9.jpg',
     alt: 'Cocktail en terrasse',
-    category: 'soirée',
+    category: 'ville',
     blurred: false
   }
 ]
