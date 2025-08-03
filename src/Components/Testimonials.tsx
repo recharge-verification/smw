@@ -13,7 +13,7 @@ const testimonials = [
   {
     id: 2,
     name: "Marc",
-    text: "Discrète et attentionnée, Sarah sait créer une atmosphère unique où l'on se sent immédiatement en confiance. Je recommande sans hésitation.",
+    text: "Discrète et attentionnée, Sarah sait créer une atmosphère unique où l’on se sent immédiatement en confiance. Je recommande sans hésitation.",
     rating: 5,
     date: "22/09/2023"
   },
@@ -114,7 +114,7 @@ export default function Testimonials() {
                 </div>
 
                 <blockquote className="italic text-base-content/90">
-                  "{testimonial.text}"
+                  &quot;{testimonial.text}&quot;
                 </blockquote>
               </div>
             </motion.div>
@@ -129,7 +129,7 @@ export default function Testimonials() {
           className="text-center mt-16"
         >
           <p className="text-sm text-base-content/60">
-            * Tous les témoignages proviennent de rencontres réelles. Les prénoms ont été modifiés pour préserver l'anonymat.
+            * Tous les témoignages proviennent de rencontres réelles. Les prénoms ont été modifiés pour préserver l’anonymat.
           </p>
         </motion.div>
       </div>

@@ -72,7 +72,7 @@ const itemVariants: Variants = {
             className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6 leading-tight font-serif"
             variants={itemVariants}
           >
-            Sarah – Escort d'exception en France
+           Sarah – Escort d’exception en France
           </motion.h1>
 
           <motion.p

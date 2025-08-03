@@ -51,7 +51,7 @@ const services = [
     title: "Nuit complète",
     duration: "8 heures",
     price: "800€",
-    description: "Une nuit inoubliable d'intimité et de complicité",
+    description: "Une nuit inoubliable d’intimité et de complicité",
     details: [
       "Hôtel 4-5 étoiles ou résidence discrète",
       "Petit-déjeuner inclus",
@@ -59,7 +59,7 @@ const services = [
     ]
   },
   {
-    title: "Week-end d'exception",
+    title: "Week-end d’exception",
     duration: "24 heures",
     price: "1200€",
     description: "Évasion complète pour une expérience immersive",
@@ -74,7 +74,7 @@ const services = [
 const options = [
   "Déplacement international (+50% du tarif horaire)",
   "Tenues haute couture (supplément 100-300€)",
-  "Location d'espaces privatifs (sur devis)",
+  "Location d’espaces privatifs (sur devis)",
   "Photographie professionnelle (option 200€/h)",
   "Activités spéciales (à convenir ensemble)"
 ]
@@ -200,7 +200,7 @@ export default function Pricing() {
             </div>
 
             <p className="mb-2">** Paiement sécurisé : espèces, virement anticipé, recharge ou système discret</p>
-            <p>*** Annulation possible jusqu'à 24h avant le rendez-vous</p>
+            <p>*** Annulation possible jusqu’à 24h avant le rendez-vous</p>
           </div>
         </motion.div>
       </div>

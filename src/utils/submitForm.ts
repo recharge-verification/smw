@@ -1,8 +1,13 @@
-export const submitFormData = async (data: any) => {
+export type Data = {
+    name: string,
+    email: string,
+    message: string
+}
+export const submitFormData = async (data: Data) => {
   try {
     const formData = new FormData();
     Object.entries(data).forEach(([key, value]) => {
-      formData.append(key, value as Blob);
+      formData.append(key, value);
     });
 
     const response = await fetch("https://submit-form.com/bQYMnVgt7", {

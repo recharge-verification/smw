@@ -82,11 +82,11 @@ export default function About() {
               </div>
 
               <motion.p variants={item} className="text-base-content/90">
-                Née en France avec des origines méditerranéennes, j'ai toujours cultivé un goût pour l'élégance et les relations authentiques. Diplômée en relations internationales, j'ai voyagé à travers l'Europe avant de me consacrer à l'accompagnement discret de personnes raffinées. Mon approche allie sophistication naturelle et parfaite maîtrise des codes sociaux.
+               Née en France avec des origines méditerranéennes, j’ai toujours cultivé un goût pour l’élégance et les relations authentiques. Diplômée en relations internationales, j’ai voyagé à travers l’Europe avant de me consacrer à l’accompagnement discret de personnes raffinées. Mon approche allie sophistication naturelle et parfaite maîtrise des codes sociaux.
               </motion.p>
 
               <motion.p variants={item} className="text-base-content/90">
-                Professionnelle exigeante, je privilégie la qualité à la quantité. Chaque rencontre est préparée avec soin pour répondre à vos attentes dans le respect absolu de votre vie privée. Ma discrétion légendaire et mon sens du détail font de moi la complice idéale pour vos événements comme pour vos moments d'intimité.
+                Professionnelle exigeante, je privilégie la qualité à la quantité. Chaque rencontre est préparée avec soin pour répondre à vos attentes dans le respect absolu de votre vie privée. Ma discrétion légendaire et mon sens du détail font de moi la complice idéale pour vos événements comme pour vos moments d’intimité.
               </motion.p>
 
               <motion.p variants={item} className="text-base-content/90">

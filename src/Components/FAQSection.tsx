@@ -8,7 +8,7 @@ const FAQSection = () => {
   const faqs = [
     {
       question: "Comment puis-je réserver un rendez-vous ?",
-      answer: "Contactez moi via l'un de mes réseaux professionnels(Telegram ou Whatsapp) dans la section 'Contact'. C'est simple et rapide !"
+      answer: "Contactez moi via l'un de mes réseaux professionnels(Telegram ou Whatsapp) dans la section «Contact». C’est simple et rapide !"
     },
     {
       question: "Quels sont vos modes de paiement ?",
@@ -16,11 +16,11 @@ const FAQSection = () => {
     },
     {
       question: "Puis-je annuler ma réservation ?",
-      answer: "Oui, vous pouvez annuler à tout moment jusqu'à 24h avant le rendez-vous et vous faire rembourser votre acompte de réservation. Aucun frais caché."
+      answer: "Oui, vous pouvez annuler à tout moment jusqu’à 24h avant le rendez-vous et vous faire rembourser votre acompte de réservation. Aucun frais caché."
     },
     {
       question: "Comment contacter le support ?",
-      answer: "Remplissez le formulaire de contact dans la section 'Contact'. Notre équipe est disponible 24/7."
+      answer: "Remplissez le formulaire de contact dans la section «Contact». Notre équipe est disponible 24/7."
     }
   ];
 

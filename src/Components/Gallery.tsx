@@ -293,7 +293,7 @@ export default function Gallery() {
             key={img.id}
             className={`w-3 h-3 rounded-full ${img.id === selectedImage ? 'bg-white' : 'bg-white/30'}`}
             onClick={() => setSelectedImage(img.id)}
-            aria-label={`Aller à l'image ${index + 1}`}
+            aria-label={`Aller à l’image ${index + 1}`}
           />
         ))}
       </div>
